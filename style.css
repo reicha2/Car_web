@@ -1,0 +1,12 @@
+.aa {
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(40, 11, 207);
+    border-color: aliceblue;
+}
+
+.bb {
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(33, 155, 92);
+}
